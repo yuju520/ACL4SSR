@@ -1,0 +1,22 @@
+# NAME: MyDirect
+# AUTHOR: yuju520
+# REPO: https://github.com/yuju520
+# UPDATED: 2025-05-27T15:09:08+08:00
+
+# 悦影
+.yueing.org
+
+# 不忘初心
+.pc528.net
+
+# LinuxDo
+.oaifree.com
+
+# 企查查
+.qcc.com
+
+# 知犀
+.zhixi.com
+
+# DeepLX
+.deeplx.org
