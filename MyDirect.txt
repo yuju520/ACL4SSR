@@ -20,3 +20,6 @@
 
 # > DeepLX
 .deeplx.org
+
+# > Yuju
+.yuju.love
