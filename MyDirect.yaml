@@ -21,3 +21,6 @@ payload:
 
 # DeepLX
   - DOMAIN-SUFFIX,deeplx.org
+
+# Yuju
+  - DOMAIN-SUFFIX,yuju.love
