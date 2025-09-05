@@ -12,6 +12,7 @@ payload:
 
 # 98堂
   - DOMAIN-KEYWORD,sehuatang
+  - DOMAIN-SUFFIX,tu.ymawv.la
 
 # composerize
   - DOMAIN-SUFFIX,composerize.com
