@@ -22,8 +22,5 @@ payload:
 # DeepLX
   - DOMAIN-SUFFIX,deeplx.org
 
-# Yuju
-  - DOMAIN-SUFFIX,yuju.love
-
 # 猪猪PT
   - DOMAIN-SUFFIX,piggo.me
