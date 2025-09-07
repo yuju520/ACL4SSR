@@ -21,8 +21,5 @@
 # > DeepLX
 .deeplx.org
 
-# > Yuju
-.yuju.love
-
 # > 猪猪PT
 .piggo.me
