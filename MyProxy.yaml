@@ -44,3 +44,6 @@ payload:
 
 # 星空
   - DOMAIN-SUFFIX,star-space.net
+
+# Yuju
+  - DOMAIN-SUFFIX,yuju.love
