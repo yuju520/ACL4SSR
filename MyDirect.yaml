@@ -24,3 +24,6 @@ payload:
 
 # 猪猪PT
   - DOMAIN-SUFFIX,piggo.me
+
+# elysia公益站
+  - DOMAIN-SUFFIX,elysia.h-e.top/
