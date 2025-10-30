@@ -25,4 +25,4 @@
 .piggo.me
 
 # > elysia公益站
-.elysia.h-e.top/
+.elysia.h-e.top
