@@ -1,0 +1,49 @@
+# NAME: MyProxy
+# AUTHOR: yuju520
+# REPO: https://github.com/yuju520
+# UPDATED: 2025-05-27T15:09:08+08:00
+
+# 朱雀
+DOMAIN,zhuque.in
+
+# 海角社区
+DOMAIN-KEYWORD,haijiao
+DOMAIN-SUFFIX,hjg95.com
+
+# 98堂
+DOMAIN-KEYWORD,sehuatang
+DOMAIN-SUFFIX,tu.ymawv.la
+DOMAIN-SUFFIX,ttou.j03og.app
+
+# composerize
+DOMAIN-SUFFIX,composerize.com
+
+# docker
+DOMAIN-KEYWORD,docker
+
+# 飞天拉面
+DOMAIN-SUFFIX,fsm.name
+
+# 打胶
+DOMAIN-SUFFIX,dajiao.cyou
+
+# iloli
+DOMAIN-SUFFIX,ilolicon.com
+
+# Srvfi
+DOMAIN-SUFFIX,srvfi.top
+
+# LinuxDo
+DOMAIN-SUFFIX,linux.do
+
+# 莫妮卡
+DOMAIN-SUFFIX,monikadesign.uk
+
+# NodeSeek
+DOMAIN-SUFFIX,nodeseek.com
+
+# 星空
+DOMAIN-SUFFIX,star-space.net
+
+# Yuju
+DOMAIN-SUFFIX,yuju.love
